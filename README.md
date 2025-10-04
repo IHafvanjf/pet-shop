@@ -2,6 +2,8 @@
 
 Aplicação web completa para **gestão de pet shop**, unindo **venda de produtos**, **agendamento de serviços** (banho e tosa, consultas, exames e estética animal) e **painel administrativo** para controle de horários, status dos pets e atendimento aos clientes.
 
+> Projeto de demonstração — desenvolvido apenas para fins de estudo e portfólio. Não representa um sistema comercial ativo.
+
 ## Funcionalidades
 
 ### Loja Virtual  
