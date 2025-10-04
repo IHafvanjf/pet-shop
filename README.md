@@ -57,15 +57,15 @@ O sistema já está hospedado e disponível para visualização:
 
 ## Demonstração
 
-<div align="center">
+<div align="center" style="display:flex; flex-wrap:wrap; gap:16px; justify-content:center;">
 
-  <img src="https://github.com/user-attachments/assets/483f9ef7-262f-4e0f-9d10-e43f4efbb7f4" width="220" alt="Página principal">
-  <img src="https://github.com/user-attachments/assets/f0797398-925e-4f40-a8f6-8be9e0cd0442" width="220" alt="Tela de cadastro">
-  <br><br>
-  <img src="https://github.com/user-attachments/assets/9a5f689e-9d3b-4d89-99a1-cd8b0b514786" width="220" alt="Seleção de transporte">
-  <img src="https://github.com/user-attachments/assets/90cc0d6c-73ae-4473-a3c4-f4e32f537d5c" width="220" alt="Escolha de horário">
+  <img src="https://github.com/user-attachments/assets/949b77f1-603f-4221-b373-a4835c590d28" width="220" alt="Home do PetShop">
+  <img src="https://github.com/user-attachments/assets/ff81148a-6d1a-430c-9062-f3f199e56cc8" width="220" alt="Tela de cadastro/login">
+  <img src="https://github.com/user-attachments/assets/12ef4d99-52bd-4189-a81e-c62313b83030" width="220" alt="Seleção de transporte">
+  <img src="https://github.com/user-attachments/assets/84482843-2f8c-47cf-9d8d-e197983626fb" width="220" alt="Escolha de horário">
 
 </div>
+
 
 ---
 
