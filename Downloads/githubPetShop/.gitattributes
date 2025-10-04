@@ -1,12 +1,18 @@
-*.php  linguist-language=PHP
+*.php   linguist-language=PHP
 *.phtml linguist-language=PHP
-*.html linguist-language=HTML
-*.htm  linguist-language=HTML
-*.css  linguist-language=CSS
-*.js   linguist-language=JavaScript
-*.json linguist-language=JSON
-*.svg  linguist-language=SVG
+*.html  linguist-language=HTML
+*.htm   linguist-language=HTML
+*.css   linguist-language=CSS
+*.js    linguist-language=JavaScript
+*.json  linguist-language=JSON
+*.svg   linguist-language=SVG
 
+# se aparecer algo com extensões de Hack, force como PHP
+*.hack  linguist-language=PHP
+*.hh    linguist-language=PHP
+*.hhi   linguist-language=PHP
+
+# não contar dependências/minificados
 vendor/*        linguist-vendored
 node_modules/*  linguist-vendored
 *.min.js        linguist-vendored
