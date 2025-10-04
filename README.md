@@ -57,15 +57,14 @@ O sistema já está hospedado e disponível para visualização:
 
 ## Demonstração
 
-<div align="center" style="display:flex; flex-wrap:wrap; gap:16px; justify-content:center;">
+<div align="center">
 
-  <img src="https://github.com/user-attachments/assets/949b77f1-603f-4221-b373-a4835c590d28" width="220" alt="Home do PetShop">
-  <img src="https://github.com/user-attachments/assets/ff81148a-6d1a-430c-9062-f3f199e56cc8" width="220" alt="Tela de cadastro/login">
-  <img src="https://github.com/user-attachments/assets/12ef4d99-52bd-4189-a81e-c62313b83030" width="220" alt="Seleção de transporte">
-  <img src="https://github.com/user-attachments/assets/84482843-2f8c-47cf-9d8d-e197983626fb" width="220" alt="Escolha de horário">
+  <img src="https://github.com/user-attachments/assets/949b77f1-603f-4221-b373-a4835c590d28" height="520" style="margin:0 10px; vertical-align:top;" alt="Escolha de horário">
+  <img src="https://github.com/user-attachments/assets/12ef4d99-52bd-4189-a81e-c62313b83030" height="520" style="margin:0 10px; vertical-align:top;" alt="Transporte do pet">
+  <img src="https://github.com/user-attachments/assets/ff81148a-6d1a-430c-9062-f3f199e56cc8" height="520" style="margin:0 10px; vertical-align:top;" alt="Home do PetShop">
+  <img src="https://github.com/user-attachments/assets/84482843-2f8c-47cf-9d8d-e197983626fb" height="520" style="margin:0 10px; vertical-align:top;" alt="Cadastro/Login">
 
 </div>
-
 
 ---
 
